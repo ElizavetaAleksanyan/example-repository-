@@ -1,4 +1,4 @@
-# example-repository-
-an example repository 
+# my-first-repository-
+My first repository 
 
-This is my example 
+This is a first repository 
